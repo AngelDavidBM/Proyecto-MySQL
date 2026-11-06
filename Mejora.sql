@@ -1,4 +1,4 @@
-USE proyecto_gestion
+USE proyecto_gestion;
 DELIMITER $$
 CREATE TRIGGER trg_calificacion_entregado
 BEFORE INSERT ON CALIFICACION

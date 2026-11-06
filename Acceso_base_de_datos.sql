@@ -1,3 +1,4 @@
-SELECT *
-FROM PRODUCTO
+USE proyecto_gestion;
 
+SELECT *
+FROM PRODUCTO;
